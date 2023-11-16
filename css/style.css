@@ -414,16 +414,10 @@ body {
 }
 
 
-
-
 .img-responsive {
   width: 220px;
   padding-left: 20px;
 }
-
-.img-responsive i{
-  width: 220px;
-  padding-left: 20px;
+.fa-circle{
+  color: var(--light-blue);
 }
-
-
